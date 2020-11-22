@@ -5,7 +5,7 @@
 * Node attributes: Department, Management Salary
 * Generated Features for predicting if employee has management salary
 * Used Random Forest Classifier
-* AUC-Score: xxxx
+* AUC-Score: 0.948
 * Generated features for predicting future connections between employees
 * AUC-Score: 0.901
 

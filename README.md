@@ -1,1 +1,6 @@
-# predictions_on_email_network
+# Predictions on E-Mail network
+
+# Project Overview:
+*
+*
+*
